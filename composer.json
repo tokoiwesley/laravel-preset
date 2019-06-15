@@ -1,0 +1,23 @@
+{
+    "name": "tokoiwesley/laravel-preset",
+    "description": "Wesley's default Laravel preset",
+    "keywords": ["laravel", "laravel preset"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wesley Tokoi",
+            "email": "wesley@tokoi.dev"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Tokoiwesley\\LaravelPreset\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel" : {
+            "providers": ["Tokoiwesley\\LaravelPreset\\LaracastsServiceProvider"]
+        }
+    }
+}
