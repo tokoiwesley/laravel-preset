@@ -26,6 +26,9 @@ class LaracastsServiceProvider extends ServiceProvider
     {
         PresetCommand::macro('custom', function ($command) {
             Preset::install();
+
+            $command->info('Custom scaffolding installed successfully.');
+            $command->comment('Please run "npm install && npm run dev" to compile your fresh scaffolding.');
         });
     }
 }
