@@ -1,8 +1,9 @@
 # Laravel Preset
 
-This is a package for creating a custom frontend (JavaScript and CSS) scaffolding in Laravel other than the default ( [Bootstrap][1] and [Vue][2]) scaffolding that ships with Laravel. 
+This is a package for creating a custom frontend (JavaScript and CSS) scaffolding in Laravel other than the default
+([Bootstrap][1] and [Vue][2]) scaffolding that ships with Laravel. 
 
-This package is inspired by [How to Create Custom Laravel Presets] series on [Laracasts][3]. You may use the package in your projects if you find it useful since I have tailored the custom frontend scaffolding included to my own personal needs. You may as well fork the project to add your personal preferences if you so wish.
+This package is inspired by [How to Create Custom Laravel Presets][3] series on [Laracasts][4]. You may use the package in your projects if you find it useful since I have tailored the custom frontend scaffolding included to my own personal needs. You may as well fork the project to add your personal preferences if you so wish.
 
 ## Installation
 
@@ -33,3 +34,4 @@ This project is licensed under the terms of the [MIT license](LICENSE).
 [1]: https://getbootstrap.com/
 [2]: https://vuejs.org/
 [3]: https://laracasts.com/series/how-to-create-custom-presets
+[4]: https://laracasts.com/
