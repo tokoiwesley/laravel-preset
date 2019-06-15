@@ -1,6 +1,6 @@
 {
     "name": "tokoiwesley/laravel-preset",
-    "description": "Wesley's default Laravel preset",
+    "description": "A custom Laravel preset",
     "keywords": ["laravel", "laravel preset"],
     "license": "MIT",
     "authors": [
